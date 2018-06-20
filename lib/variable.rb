@@ -6,4 +6,4 @@ puts sum
 
 
 current_president = "Donald Trump"
-puts "In 2018, the president was Barack Obama"
+puts "In 2018, the president was #{current_president}"
